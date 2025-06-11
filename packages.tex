@@ -1,0 +1,40 @@
+\usepackage[a4paper]{geometry}
+
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel} %set the language 
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{siunitx} %for the SI units
+\usepackage[hidelinks]{hyperref}
+\hypersetup{breaklinks=true}
+\usepackage{float}
+\usepackage{pdfpages}
+\usepackage{caption}
+\usepackage{booktabs, multirow} % for borders and merged ranges
+\usepackage{url} %enable the hyperref to web sites
+\usepackage{changepage,threeparttable} 
+\usepackage{soul}
+\usepackage{graphicx}
+\geometry{a4paper,tmargin=2cm,bmargin=2cm, lmargin=2cm, rmargin=2cm}
+\usepackage[backend=biber,style=numeric,sorting=none]{biblatex}
+\addbibresource{reference.bib}
+\usepackage{setspace}
+
+\newcommand{\mesunt}[1]{\left[\si{#1}\right]}
+
+\usepackage{titlesec}
+
+%pacchetto per fare le citazioni
+\usepackage{cleveref}
+
+\crefformat{equation}{equazione~#2#1#3}
+\Crefformat{equation}{Equazione~#2#1#3}
+\crefname{figure}{figura}{figure}
+\Crefname{figure}{Figura}{Figure}
+\crefname{table}{tabella}{tabelle}
+\Crefname{table}{Tabella}{Tabelle}
+\crefname{equation}{equazione}{equazioni}
+\Crefname{equation}{Equazione}{Equazioni}
+\crefname{section}{sezione}{sezioni}
+\Crefname{section}{Sezione}{Sezioni}

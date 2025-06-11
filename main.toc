@@ -1,0 +1,22 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {1}Introduzione}{3}{section.1}%
+\contentsline {section}{\numberline {2}Dimensionamento del muro}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Predimensionamento}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Dimensionamento}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Caratteristiche del terreno}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Calcolo dei pesi, dei carichi e delle spinte}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Calcolo dei pesi}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Calcolo delle spinte}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Verifica al ribaltamento (GEO, A1 M1 R3)}{6}{section.4}%
+\contentsline {section}{\numberline {5}Verifica a scorrimento (GEO, A1 M1 R3)}{8}{section.5}%
+\contentsline {section}{\numberline {6}Verifica della capacità portante terreno-fondazione (GEO, A1 M1 R3)}{8}{section.6}%
+\contentsline {section}{\numberline {7}Verifiche strutturali}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Sezione 1}{10}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Sezione 2 e 3}{11}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Predimensionamento armatura}{12}{section.8}%
+\contentsline {section}{\numberline {9}Verifica agli Stati Limiti Ultimi Strutturali (SLU-STR)}{13}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Verifica SLU: momenti resistenti}{13}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Verifica SLU: resistenza al taglio}{14}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Disegno di massima dell'opera}{14}{section.10}%
+\contentsline {section}{\numberline {11}Conclusioni}{16}{section.11}%
